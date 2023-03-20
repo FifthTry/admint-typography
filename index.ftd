@@ -1,6 +1,8 @@
 -- import: fastn
 -- import: fifthtry.github.io/nunito-font
 -- import: fifthtry.github.io/nunito-font/assets as nunito-assets
+-- import: fifthtry.github.io/inter-font
+-- import: fifthtry.github.io/inter-font/assets as inter-assets
 
 
 
@@ -8,18 +10,18 @@
 
 
 -- ftd.type heading-hero-mobile:
-line-height.px: 60
-size.px: 52
+line-height.px: 93
+size.px: 57
 letter-spacing.px: 0
-weight: 700
-font-family: $nunito-assets.fonts.Nunito
+weight: 500
+font-family: $inter-assets.fonts.Inter
 
 -- ftd.type heading-hero-desktop:
-line-height.px: 60
-size.px: 52
+line-height.px: 93
+size.px: 70
 letter-spacing.px: 0
-weight: 700
-font-family: $nunito-assets.fonts.Nunito
+weight: 500
+font-family: $inter-assets.fonts.Inter
 
 -- ftd.responsive-type heading-hero:
 desktop: $heading-hero-desktop
@@ -30,15 +32,15 @@ mobile: $heading-hero-mobile
 
 
 -- ftd.type heading-large-mobile:
-line-height.px: 48
-size.px: 40
+line-height.px: 40
+size.px: 29
 letter-spacing.px: 0
 weight: 700
 font-family: $nunito-assets.fonts.Nunito
 
 -- ftd.type heading-large-desktop:
-line-height.px: 48
-size.px: 40
+line-height.px: 56
+size.px: 50
 letter-spacing.px: 0
 weight: 700
 font-family: $nunito-assets.fonts.Nunito
@@ -52,18 +54,18 @@ mobile: $heading-large-mobile
 
 
 -- ftd.type heading-medium-mobile:
-line-height.px: 44
-size.px: 32
+line-height.px: 40
+size.px: 29
 letter-spacing.px: 0
-weight: 600
+weight: 700
 font-family: $nunito-assets.fonts.Nunito
 
 -- ftd.type heading-medium-desktop:
-line-height.px: 44
-size.px: 32
+line-height.px: 56
+size.px: 40
 letter-spacing.px: 0
 font-family: $nunito-assets.fonts.Nunito
-weight: 600
+weight: 700
 
 -- ftd.responsive-type heading-medium:
 desktop: $heading-medium-desktop
@@ -72,18 +74,17 @@ mobile: $heading-medium-mobile
 
 
 -- ftd.type heading-small-mobile:
-line-height.px: 36
-size.px: 24
+line-height.px: 40
+size.px: 29
 letter-spacing.px: 0
-weight: 500
+weight: 700
 font-family: $nunito-assets.fonts.Nunito
 
-
 -- ftd.type heading-small-desktop:
-line-height.px: 36
-size.px: 24
+line-height.px: 56
+size.px: 40
 letter-spacing.px: 0
-weight: 500
+weight: 700
 font-family: $nunito-assets.fonts.Nunito
 
 -- ftd.responsive-type heading-small:
@@ -92,18 +93,18 @@ mobile: $heading-small-mobile
 
 
 -- ftd.type heading-tiny-mobile:
-line-height.px: 26
-size.px: 18
+line-height.px: 45
+size.px: 28
 letter-spacing.px: 0
-weight: 500
+weight: 700
 font-family: $nunito-assets.fonts.Nunito
 
 
 -- ftd.type heading-tiny-desktop:
-line-height.px: 26
-size.px: 18
+line-height.px: 45
+size.px: 28
 letter-spacing.px: 0
-weight: 500
+weight: 700
 font-family: $nunito-assets.fonts.Nunito
 
 -- ftd.responsive-type heading-tiny:
@@ -113,19 +114,19 @@ mobile: $heading-tiny-mobile
 
 
 -- ftd.type copy-large-mobile:
-line-height.px: 28
-size.px: 20
+line-height.px: 40
+size.px: 29
 letter-spacing.px: 0
-weight: 400
+weight: 500
 font-family: $nunito-assets.fonts.Nunito
 
 
 -- ftd.type copy-large-desktop:
 line-height.px: 28
-size.px: 20
+size.px: 24
 letter-spacing.px: 0
 font-family: $nunito-assets.fonts.Nunito
-weight: 400
+weight: 500
 
 -- ftd.responsive-type copy-large:
 desktop: $copy-large-desktop
@@ -161,7 +162,7 @@ mobile: $copy-regular-mobile
 
 
 -- ftd.type copy-small-mobile:
-line-height.px: 20
+line-height.px: 24
 size.px: 16
 letter-spacing.px: 0
 weight: 400
@@ -169,7 +170,7 @@ font-family: $nunito-assets.fonts.Nunito
 
 
 -- ftd.type copy-small-desktop:
-line-height.px: 20
+line-height.px: 24
 size.px: 16
 letter-spacing.px: 0
 weight: 400
@@ -238,7 +239,7 @@ mobile: $label-small-mobile
 
 
 -- ftd.type fine-print-mobile:
-line-height.px: 18
+line-height.px: 21
 size.px: 14
 letter-spacing.px: 0
 weight: 400
@@ -246,7 +247,7 @@ font-family: $nunito-assets.fonts.Nunito
 
 
 -- ftd.type fine-print-desktop:
-line-height.px: 18
+line-height.px: 21
 size.px: 14
 letter-spacing.px: 0
 weight: 400
