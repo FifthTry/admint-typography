@@ -191,19 +191,19 @@ mobile: $copy-small-mobile
 
 
 -- ftd.type label-large-mobile:
-line-height.px: 22
-size.px: 16
+line-height.px: 30
+size.px: 20
 letter-spacing.px: 0
 weight: 400
-font-family: $nunito-assets.fonts.Nunito
+font-family: $inter-assets.fonts.Inter
 
 
 -- ftd.type label-large-desktop:
-line-height.px: 22
-size.px: 16
+line-height.px: 30
+size.px: 20
 letter-spacing.px: 0
 weight: 400
-font-family: $nunito-assets.fonts.Nunito
+font-family: $inter-assets.fonts.Inter
 
 -- ftd.responsive-type label-large:
 desktop: $label-large-desktop
