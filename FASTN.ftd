@@ -1,9 +1,6 @@
+
 -- import: fastn
 
 -- fastn.package: fifthtry.github.io/admint-typography
 
--- fastn.dependency: fifthtry.github.io/doc-site as ds
--- fastn.dependency: fifthtry.github.io/bling as bling
-
--- fastn.auto-import: bling/chat as chat
--- fastn.auto-import: ds
+-- fastn.dependency: fifthtry.github.io/nunito-font
