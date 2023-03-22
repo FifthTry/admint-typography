@@ -80,8 +80,8 @@ weight: 700
 font-family: $nunito-assets.fonts.Nunito
 
 -- ftd.type heading-small-desktop:
-line-height.px: 56
-size.px: 40
+line-height.px: 45
+size.px: 33
 letter-spacing.px: 0
 weight: 700
 font-family: $nunito-assets.fonts.Nunito
@@ -150,7 +150,7 @@ line-height.px: 24
 size.px: 16
 letter-spacing.px: 0
 font-family: $nunito-assets.fonts.Nunito
-weight: 400
+weight: 600
 
 -- ftd.responsive-type copy-regular:
 desktop: $copy-regular-desktop
