@@ -20,6 +20,7 @@ font-family: $inter-assets.fonts.Inter
 line-height.px: 93
 size.px: 70
 letter-spacing.px: 0
+weight: 700
 font-family: $inter-assets.fonts.Inter
 
 -- ftd.responsive-type heading-hero:
