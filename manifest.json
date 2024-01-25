@@ -1,0 +1,21 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "74D9D88691A697F694020C93DF2BEAD61AE75FD1E430FD63F4A470E241E47BD1",
+      "size": 185
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "DFE4269112329CCB28D2168506F3A7B7F92A0CB2B102BA083774CB464BA5D9CB",
+      "size": 1335
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "21E605891396978E4D6E2CB3C4CFC81CEFDB96EA61A8C9EF2749D9D13493B0C1",
+      "size": 16051
+    }
+  },
+  "zip_url": "https://codeload.github.com/fifthtry/admint-typography/zip/refs/heads/main",
+  "checksum": "F7BE55177D72937D45BBDECCDB3094CF853C65FC3E797428CA3F7A73297B13D0"
+}
